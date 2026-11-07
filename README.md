@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Arestadul 👋</h1>
+<h1 align="center">Hi, I'm Restadul 👋</h1>
 <p align="center">
   <b>Animator and storyteller · Creator of the Rongpat cartoon style · Building offline animation tools</b>
 </p>
