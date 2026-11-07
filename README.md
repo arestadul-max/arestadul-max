@@ -1,6 +1,7 @@
 <h1 align="center">Hi, I'm Restadul 👋</h1>
 <p align="center">
-  <b>Animator and storyteller · Creator of the Rongpat cartoon style · Building offline animation tools</b>
+  <b>Game developer · Animator · Creator of the Rongpat cartoon style</b><br>
+  <i>I build games, cartoons and the tools that make them.</i>
 </p>
 
 <p align="center">
@@ -9,14 +10,19 @@
 
 ## About me
 
-I make story-based cartoon Shorts in **Rongpat**, a hand-drawn style I created that is inspired by Bengali folk art (Kalighat pat, Gond, Madhubani) and modern Bengali illustration. To make them faster, I build my own tools that run fully offline on an ordinary Windows laptop.
+I'm a game developer and animator. I love telling stories, whether players live them in a game or watch them in a cartoon. My visual style, **Rongpat**, is a hand-drawn look I created, inspired by Bengali folk art (Kalighat pat, Gond, Madhubani) and modern Bengali illustration.
 
-- 🎬 Making funny Bangla and English cartoon stories for YouTube Shorts
-- 🛠️ Building **Rangput Animation Maker**, a free offline cartoon maker
-- 🌱 Working on: automatic voices from my own voice samples, and better animal animation
-- 💬 Ask me about: cartoon storytelling, Bengali folk-art style, offline animation pipelines
+## What I build
 
-## Featured project
+| 🎮 Games | 🎬 Animation | 🛠️ Tools |
+|---|---|---|
+| Developing my own games, from idea to gameplay to art | Funny Bangla and English cartoon stories for YouTube Shorts | **Rangput Animation Maker**, a free offline cartoon maker for Windows |
+
+- 🌱 Currently: improving my games, and adding automatic voices and animal animation to Rangput
+- 💬 Ask me about: game ideas, storytelling, character design, animation pipelines
+- 🤝 Open to: collaborations on games and animated stories
+
+## Featured projects
 
 ### [Rangput Animation Maker](https://github.com/arestadul-max/Rangput-Animation-Maker) &nbsp;`pre-release`
 
@@ -32,6 +38,10 @@ Write a story in a spreadsheet, add voice recordings, double-click, and get a fi
 </p>
 
 ➡️ **[Download for Windows](https://github.com/arestadul-max/Rangput-Animation-Maker/releases)** · **[Read the guide](https://github.com/arestadul-max/Rangput-Animation-Maker#readme)** · **[Report a problem](https://github.com/arestadul-max/Rangput-Animation-Maker/issues)**
+
+### 🎮 Games
+
+*Coming soon: my game projects will appear here.*
 
 ## Tools I use
 
@@ -49,4 +59,4 @@ Write a story in a spreadsheet, add voice recordings, double-click, and get a fi
 -->
 
 ---
-<p align="center"><i>Cartoons are drawn, not generated.</i></p>
+<p align="center"><i>Stories you can watch, and stories you can play.</i></p>
