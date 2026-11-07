@@ -6,6 +6,12 @@
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/arestadul-max/Rangput-Animation-Maker/main/docs/images/frames-cricket.png" width="85%" alt="Frames from a Rongpat cartoon">
+  <br><sub>🏏 <i>The Last Ball</i>: a cricket story made with Rangput Animation Maker</sub>
+</p>
+
+<p align="center">
+  <img src="assets/fish-thief-ghost.png" width="85%" alt="Scenes from The Fish-Thief Ghost">
+  <br><sub>👻 <i>The Fish-Thief Ghost (Mechho Bhoot)</i>: my first Rongpat animation</sub>
 </p>
 
 ## About me
