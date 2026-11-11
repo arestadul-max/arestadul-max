@@ -4,16 +4,6 @@
   <i>I build games, cartoons and the tools that make them.</i>
 </p>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/arestadul-max/Rangput-Animation-Maker/main/docs/images/frames-cricket.png" width="85%" alt="Frames from a Rongpat cartoon">
-  <br><sub>🏏 <i>The Last Ball</i>: a cricket story made with Rangput Animation Maker</sub>
-</p>
-
-<p align="center">
-  <img src="assets/fish-thief-ghost.png" width="85%" alt="Scenes from The Fish-Thief Ghost">
-  <br><sub>👻 <i>The Fish-Thief Ghost (Mechho Bhoot)</i>: my first Rongpat animation</sub>
-</p>
-
 ## About me
 
 I'm a game developer and animator. I love telling stories, whether players live them in a game or watch them in a cartoon. My visual style, **Rongpat**, is a hand-drawn look I created, inspired by Bengali folk art (Kalighat pat, Gond, Madhubani) and modern Bengali illustration.
@@ -53,6 +43,16 @@ A Bengali story platformer set in rural Bangladesh, drawn in my Rongpat style. P
 ➡️ **[Play now](https://arestadul-max.github.io/pupus-world/)** · **[About the game](https://github.com/arestadul-max/pupus-world#readme)**
 
 ### 🎬 Animation
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/arestadul-max/Rangput-Animation-Maker/main/docs/images/frames-cricket.png" width="85%" alt="Frames from a Rongpat cartoon">
+  <br><sub>🏏 <i>The Last Ball</i>: a cricket story made with Rangput Animation Maker</sub>
+</p>
+
+<p align="center">
+  <img src="assets/fish-thief-ghost.png" width="85%" alt="Scenes from The Fish-Thief Ghost">
+  <br><sub>👻 <i>The Fish-Thief Ghost (Mechho Bhoot)</i>: my first Rongpat animation</sub>
+</p>
 
 #### [Rangput Animation Maker](https://github.com/arestadul-max/Rangput-Animation-Maker) &nbsp;`pre-release`
 
